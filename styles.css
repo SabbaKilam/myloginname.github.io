@@ -17,8 +17,17 @@
     right: 0;
     top: 0;
     font-size: 2rem;
-    height: 4.5rem;
+    height: 4rem;
     padding: 0.5rem;
     background-color: lightblue;
-    line-height: 100%;
+}
+
+#photo{
+    position: absolute;
+    top: 0;
+    right: 2rem;
+    width: 6rem;
+    padding-bottom: 6rem;
+    background: url(me.png);
+    border-radius: 50%;
 }
